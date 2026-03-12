@@ -1,0 +1,140 @@
+# Introduction to Cyber Security – TryHackMe
+
+**Room:** Introduction to Cyber Security
+**Platform:** TryHackMe
+
+---
+
+## Overview
+
+Cybersecurity is the practice of protecting **systems, networks, and data** from digital attacks. As organisations rely more on technology, securing digital infrastructure becomes critical to prevent data breaches, financial loss, and service disruption.
+
+Cybersecurity professionals work to **prevent attacks, detect threats, and respond to security incidents.**
+
+---
+
+## Why Cyber Security Matters
+
+Cyber attacks can cause serious damage to organisations and individuals. Common impacts include:
+
+* Data breaches
+* Financial loss
+* Identity theft
+* Service downtime
+* Reputation damage
+
+Many sectors such as **banking, healthcare, government, and technology** rely heavily on strong cybersecurity protections.
+
+---
+
+## Types of Cyber Security Roles
+
+Cybersecurity roles are generally divided into two main areas.
+
+### Offensive Security (Red Team)
+
+Offensive security focuses on **simulating attacks to find vulnerabilities** before malicious hackers do.
+
+Common activities include:
+
+* penetration testing
+* vulnerability assessments
+* ethical hacking
+
+These professionals attempt to break into systems **legally and with permission**.
+
+---
+
+### Defensive Security (Blue Team)
+
+Defensive security focuses on **protecting systems and responding to threats**.
+
+Common responsibilities include:
+
+* monitoring network activity
+* investigating alerts
+* responding to incidents
+* strengthening security controls
+
+Security analysts often work within a **Security Operations Center (SOC)** to monitor systems continuously.
+
+---
+
+## Common Cyber Attacks
+
+### Phishing
+
+Attackers send fake emails or messages to trick users into revealing sensitive information such as passwords or credit card details.
+
+### Malware
+
+Malicious software designed to damage systems or steal information.
+
+Examples include:
+
+* viruses
+* ransomware
+* spyware
+
+### Data Breaches
+
+Unauthorised access to sensitive information such as:
+
+* passwords
+* personal data
+* financial information
+
+---
+
+## The CIA Triad
+
+The **CIA Triad** is a core concept in cybersecurity representing three fundamental security principles.
+
+### Confidentiality
+
+Ensuring sensitive information is accessible **only to authorised users**.
+
+Example:
+Passwords protecting accounts.
+
+---
+
+### Integrity
+
+Ensuring that data remains **accurate and cannot be altered without permission**.
+
+Example:
+Protecting financial records from tampering.
+
+---
+
+### Availability
+
+Ensuring that systems and data are **accessible when needed**.
+
+Example:
+Preventing denial-of-service attacks that make services unavailable.
+
+---
+
+## Cyber Security Careers
+
+Cybersecurity offers many career paths, including:
+
+* Security Analyst
+* Security Engineer
+* Penetration Tester
+* Incident Responder
+* Threat Hunter
+
+Many professionals begin their careers in **Security Operations Center (SOC) roles**.
+
+---
+
+## Key Takeaways
+
+* Cybersecurity protects systems, networks, and data from attacks.
+* Cyber roles are commonly divided into **offensive (red team)** and **defensive (blue team)**.
+* Common cyber threats include **phishing, malware, and data breaches**.
+* The **CIA Triad (Confidentiality, Integrity, Availability)** is a core cybersecurity principle.
+* Cybersecurity offers many career opportunities with strong demand worldwide.
